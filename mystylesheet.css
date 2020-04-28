@@ -1,0 +1,13 @@
+header {
+    background-color: bisque;
+    padding: 40px;
+}
+
+p {
+    font-size: 40px;
+    color: blue;
+}
+
+footer {
+    background-color: chartreuse;
+}
